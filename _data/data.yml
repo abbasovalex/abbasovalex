@@ -87,24 +87,15 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Solopreneur
+        time: 02.2022 - 05.2023
+        company: eva10.com, Russia / Kazakhstan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Создал с нуля новый аналитический сервиса в сфере электронной коммерции. Сервис работал в форме чат-бота ВКонтакте и Telegram, которому можно было поручить слежку за конкурентами. Раз в неделю чаб-бот присылал персональные отчеты по конкурентам: новинки в ассортименте, число продаж, кол-во остатков на складе и размер выручки. Создал прототип и затем MVP продукта. 
+            - Выводил продукт на рынок: делал исследование рынка, проводил custdev-ы, работал с фокус-группой, разработал бизнес-модель, тестировал гипотезы, собрал роадмап, привлекал трафик, работал над удержанием. Привлек 1000 пользователей, добился недельного retention 90%, сделал первых продажи. Получил предложение для инвестиций. 
+      - role: Senior Product Manager
+        time: 2019 - 2022
+        company: vk.com, Russia
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
