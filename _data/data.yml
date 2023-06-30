@@ -53,12 +53,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      За моими плечами 15 лет работы в ИТ. Первую половину из которых я проработал техническим специалистом,
+      другую был предпринимателем и развивал чужие продукты. Мне удалось поучаствовать в собственных и чужих продуктах.
+      Это были как локальные, так и международные проекты. Особенно горжусь следующими двумя.
+      - В соавторстве с небольшой, но сильной командой мы сделали продукт, которым пользовались такие гиганты как Google,
+      Activision, Uber и др., позже продукт купила Appannie / Data.ai 
+      - С небольшой, но сильной командой ВКонтакте мы вырастили уникальный продукт которым ежемесячно пользовалось
+      десятки тысяч продавцов, 14 млн пользователей и который приносил компании 1 млрд рублей выручки в год. 
 # education:
 #    title: Education
 #    info:
@@ -88,7 +89,7 @@ experiences:
     title: Experiences
     info:
       - role: Solopreneur
-        time: 02.2022 - 05.2023
+        time: 02.2022 - 06.2023
         company: eva10.com, Russia / Kazakhstan
         details: |
           Создал с нуля новый аналитический сервис в сфере электронной коммерции.
@@ -102,7 +103,7 @@ experiences:
             - Привлек 900 продавцов
             - WAU Retention: 80-90%
             - Добился первых продаж
-            - Переговоры с потенциальным инвестором
+            - Сделана попытка привлечь инвестиции
             
       - role: Senior Product Manager
         time: 2019 - 2022
