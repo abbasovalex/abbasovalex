@@ -168,13 +168,11 @@ certifications:
       title: Certifications
       list:
         - name: Основы статистики
-          # start: 2020
-          # end: 2021
-          organization: Stepik
-          credentialid: 111-222
+          start: 2023
+          end: 2023
+          organization: Bioinformatics Institute
           credentialurl: https://stepik.org/cert/2096054
-          credentialname: Stepik
-          details: |
+          credentialname: Сертификат
             
         - name: Git learning
           start: 2019
