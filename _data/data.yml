@@ -214,7 +214,7 @@ projects:
         tagline: "Прототип чат-бота для поиска лекарств в ближайших аптеках на основе данных от Честного Знака. Заморожен, данные неактуальные."
         
       - title: iBurattino
-        link: "#"
+        link: "https://www.google.com/search?q=iBurattino"
         tagline: "Проект закрылся, но в сети ещё осталась информация о нём."
 
       - title: Lukum
