@@ -192,25 +192,34 @@ projects:
     title: Projects
     intro: >
     assignments:
+
+      - title: Маркет ВКонтакте
+        link: "https://vk.com/press/marketplace"
+        tagline: "Запустил агрегатор товаров ВКонтакте"
+
+      - title: Магазин 2.0
+        link: "https://vk.com/@business-magazin-2-0"
+        tagline: "Перезапустил торговлю ВКонтакте и связанные с ним периферийные продукты, среди который жемчужиной стал Магазин 2.0"
+        
       - title: django-split-json-widget
         link: "https://github.com/abbasovalex/django-SplitJSONWidget-form"
         tagline: "Создал open source виджет, который помогает программистам автоматически строить формы на их Django сайтах"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: EVA
+        link: "https://vk.com/evasecretlink"
+        tagline: "Аналитика по Wildberries и Ozon. Проект заморожен из-за отсутствия инвестиций."
 
-      - title: Tempo
+      - title: Telegram чат-бот для поиска лекарств
+        link: "https://hack.markirovka.ru/"
+        tagline: "Прототип чат-бота для поиска лекарств в ближайших аптеках на основе данных от Честного Знака. Заморожен, данные неактуальные."
+        
+      - title: iBurattino
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Проект закрылся, но в сети ещё осталась информация о нём."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Lukum
+        link: "https://www.sobaka.ru/bars/opening/20329"
+        tagline: "Проект закрылся. Попытка запустить в России информационно-гастрономический сервис для людей, кто хочет получать удовольствие от знакомства с новыми и вкусными блюдами в своем городе."
 
 oss:
     title: OSS Contributions
