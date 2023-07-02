@@ -171,21 +171,21 @@ certifications:
           start: 2021
           end: 2021
           organization: Частный курс
-          credentialurl: https://stepik.org/cert/1060119
+          credentialurl: stepik.org/cert/1060119
           credentialname: Сертификат
 
         - name: Управление продуктом на основе данных
           start: 2019
           end: 2019
           organization: Go Practice
-          credentialurl: https://gopractice.ru/course/pm/
+          credentialurl: gopractice.ru/course/pm/
           credentialname: Сертификат
 
         - name: Основы статистики
           start: 2019
           end: 2019
           organization: Bioinformatics Institute
-          credentialurl: https://stepik.org/cert/2096054
+          credentialurl: stepik.org/cert/2096054
           credentialname: Сертификат
         
 projects:
