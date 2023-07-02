@@ -15,7 +15,7 @@ sidebar:
     email: a@eva10.com
     telegram: abbasovalex # add your nickname without '@' sign
     website: vk.com/dad #do not add http://
-    timezone: Kazakhstan/Oral Timezone
+    # timezone: Kazakhstan/Oral Timezone
     github: abbasovalex
     stack-overflow: 2304719/abbasov-alexander # Number/Username, e.g. 123456/alandoe
     phone: 
@@ -54,7 +54,7 @@ career-profile:
     title: Career Profile
     summary: |
       Вот уже 15 лет занимаюсь профессионально проектами и продуктами в ИТ сфере. Первую половину из них прошел от программиста до CTO.
-      Вторую посвятил предпринимательсву и созданию продуктов. За это время удалось поучаствовать в собственных и чужих продуктах.
+      Вторую посвятил предпринимательству и созданию продуктов. За это время удалось поучаствовать в собственных и чужих продуктах.
       Они были разнообразные — маленькие и большие, локальные и международные. Но наиболее ярким опытом было участие в международном стартапе Appscotch
       и работа ВКонтакте.
       - В Appscotch в соавторстве с небольшой, но сильной командой сделал продукт, которым пользовались такие гиганты как Google,
@@ -191,13 +191,10 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: django-split-json-widget
+        link: "https://github.com/abbasovalex/django-SplitJSONWidget-form"
+        tagline: "Создал open source виджет, который помогает программистам автоматически строить формы на их Django сайтах"
 
       - title: DevStudio
         link: "#"
