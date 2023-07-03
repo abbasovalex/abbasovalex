@@ -91,7 +91,7 @@ experiences:
     info:
       - role: Solopreneur
         time: 2022 - 2023
-        company: eva10.com, Russia / Kazakhstan
+        company: eva10.com, SaaS
         details: |
           Создал с нуля новый аналитический сервис в сфере электронной коммерции.
           Сервис работал в форме чат-бота ВКонтакте и Telegram, которому можно было поручить слежку за конкурентами на Wildberries и Ozon.
@@ -108,7 +108,7 @@ experiences:
             
       - role: Senior Product Manager
         time: 2019 - 2022
-        company: vk.com, Russia
+        company: vk.com, SaaS
         details: |
           Подобрал внутренний полуживой проект электронной коммерции и вдохнул в него жизнь.
           За 3 года плотной работы кроме управления классическим жизненным циклом продукта, также приходилось много эксперементировать.
@@ -126,7 +126,7 @@ experiences:
 
       - role: Entrepreneur
         time: 2016 - 2019
-        company: iBurattino, Russia
+        company: iBurattino, SaaS
         details: |
           3 года насыщенного предпринимательского опыта. Прошел путь от задумки до воплощения и нахождения product/market fit.
           Приходилось заниматься абсолютно всем: вести юр.лицо, писать код, администрировать сервера, создавать UI,
@@ -140,7 +140,7 @@ experiences:
 
       - role: Startup member
         time: 2015 - 2016
-        company: AppScotch / Almaz Capital, Russia / USA
+        company: AppScotch / Almaz Capital, SaaS
         details: |
           За 1.5 года в спартанских условиях мы прошли от задумки до продажи лидеру международного рынка мобильной аналитики — Appannie / Data.ai
           У нас была по настоящему кросс-функциональная команда. В этом продукте отвечал за UI, часть подсистемы для майнинга данных,
@@ -155,7 +155,6 @@ experiences:
 
       - role: Software Engineer
         time: 2007 - 2015
-        company: AppScotch / Almaz Capital, Russia
         details: |
           Я работал разработчиком в Jensen Technologies, руководителем отдела разрбаотки в ЮМИ/UMI.CMS и CTO в одном стартапе.
           
