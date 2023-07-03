@@ -168,7 +168,7 @@ certifications:
       list:
         - name: Введение в Машинное обучение
           start: 2023
-          end: н.м.
+          end: 2023
           organization: ОмГТУ
           credentialurl: stepik.org/course/8057/info
           credentialname: Прохожу
