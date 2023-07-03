@@ -235,24 +235,39 @@ projects:
 publications:
     title: Публичные активности
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Ниже небольшая часть упоминаний о продуктах которые я запускал и моих интервью. 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Стресс-тест идеи. Dumpling — платформа для независимых курьеров в нише доставки продуктов питания
+        link: "https://vc.ru/food/148710-stress-test-idei-dumpling-platforma-dlya-nezavisimyh-kurerov-v-nishe-dostavki-produktov-pitaniya"
+        conference: Разбор бизнес-модели стартапа
+        
+      - title: «ВКонтакте» и YouTube названы самыми эффективными каналами продаж в России
+        link: "https://www.sostav.ru/publication/vkontakte-i-youtube-nazvany-samymi-effektivnymi-kanalami-prodazh-52652.html"
+        conference: Интервью для нтернет-издания «Sostav»
+        
+      - title: Соцсети унаследуют электронную коммерцию
+        link: "https://www.comnews.ru/content/218429/2022-01-25/2022-w04/socseti-unasleduyut-elektronnuyu-kommerciyu"
+        conference: Интервью для нтернет-издания «Comnews»
+        
+      - title: Почему в 2021 году маркетплейсы обещают «черную пятницу» без фейковых скидок
+        link: "https://thebell.io/pochemu-v-2021-godu-marketplejsy-obeshhayut-chernuyu-pyatnitsu-bez-fejkovyh-skidok"
+        conference: Интервью для нтернет-издания The Bell
+        
+      - title: "Тренды m-commerce от VK Business"
+        link: "https://tpmag.ru/articles/texnologii/trendyi-v-m-commerce-ot-vk/"
+        conference: Интервью для нтернет-издания «Точка продаж»
+        
+      - title: Подборка чат-ботов для маркетплейсов
+        link: "https://botcreators.ru/blog/podborka-chat-botov-dlja-marketplejsov/"
+        conference: Ребята отметили мой аналитический чат-бот
+        
+      - title: Заработал ресторанный сервис lukum.org
+        link: "https://www.sobaka.ru/bars/opening/20329"
+        conference: Мой сервис попал в обзор журнала «Собака.ру»
+        
+      - title: Отправляем заявление в Государственную Думу по законопроекту №89417-6
+        link: "http://habrahabr.ru/post/147484/"
+        conference: Благодаря моей статье было отпарвлено более 60 000 заявлений в госдуму за 3 дня
 
 skills:
     title: Ключевые навыки
