@@ -251,26 +251,29 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Ключевые навыки
+    intro: |
+      Мой опыт позволяет одинаково хорошо понимать потребности бизнеса и разбираться в технических вопросах и непротиворечить здравому смыслу.
+      Придерживаюсь политики прозрачности в команде и всегда готов обосновать принимаемое мной управленческое решение.
+      Не присваиваю себе чужих заслуг. Одержим сроками продуктовых запусков и рисками, поэтому бываю навязчивым. 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Исследование рынка
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Продуктовая стратегия
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Управление ИТ продуктами
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Разработка ПО и SaaS
+        level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Кросс-функциональное взаимодействие
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Data-driven подход
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
