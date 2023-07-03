@@ -166,6 +166,13 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Введение в Машинное обучение
+          start: 2023
+          end: 
+          organization: ОмГТУ
+          credentialurl: 
+          credentialname: Сертификат
+          
         - name: Программирование на Golang
           start: 2021
           end: 2021
