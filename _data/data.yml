@@ -51,7 +51,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Обо мне
     summary: |
       Вот уже 15 лет занимаюсь профессионально проектами и продуктами в ИТ сфере. Первую половину из них прошел от программиста до CTO.
       Вторую посвятил предпринимательству и созданию продуктов. За это время удалось поучаствовать в собственных и чужих продуктах.
@@ -87,7 +87,7 @@ career-profile:
 #            - Bullet point
 #            - Bullet point
 experiences:
-    title: Experiences
+    title: Опыт работы
     info:
       - role: Solopreneur
         time: 2022 - 2023
@@ -164,14 +164,14 @@ experiences:
             - В стартапе сформировал техническую команду, отвечал за продукт, успешно продали 
 
 certifications:
-      title: Certifications
+      title: Сертификаты
       list:
         - name: Введение в Машинное обучение
           start: 2023
-          end: 
+          end: н.м.
           organization: ОмГТУ
-          credentialurl: 
-          credentialname: Сертификат
+          credentialurl: stepik.org/course/8057/info
+          credentialname: Прохожу
           
         - name: Программирование на Golang
           start: 2021
@@ -195,7 +195,7 @@ certifications:
           credentialname: Сертификат
         
 projects:
-    title: Projects
+    title: Проекты
     intro: >
         Мои наиболее значимые проекты за 15 лет. В этот список не вошло приличное число проектов, которые потерпели неудачу, но на которых я получил бесценный опыт.
     assignments:
@@ -229,7 +229,7 @@ projects:
         tagline: "Проект закрылся. Попытка запустить в России информационно-гастрономический сервис для людей, кто хочет получать удовольствие от знакомства с новыми и вкусными блюдами в своем городе."
 
 publications:
-    title: Publications
+    title: Публичные активности
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -251,26 +251,29 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Ключевые навыки
+    intro: |
+        Моя супер сила в том, что мой опыт позволяет одинаково хорошо понимать потребности бизнеса и разбираться в технических вопросах,
+        чтобы следовать здравому смыслу. Придерживаюсь политики прозрачности в команде и всегда готов обосновать принимаемое мной управленческое решение.
+        Не присваиваю себе чужих заслуг. Одержим сроками продуктовых запусков и рисками, поэтому бываю навязчивым. 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Исследование рынка
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Продуктовая стратегия
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Управление крупными ИТ продуктами и стартапами
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Разработка ПО / SaaS
+        level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Кросс-функциональное взаимодействие
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Data-driven подход
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
