@@ -156,7 +156,7 @@ experiences:
       - role: Software Engineer
         time: 2007 - 2015
         details: |
-          Я работал разработчиком в Jensen Technologies, руководителем отдела разрбаотки в ЮМИ/UMI.CMS и CTO в одном стартапе.
+          В этот период я прошел путь от разработчика до CTO. 
           
           Результаты за это время:
             - В Jensen Technologies вырос как разработчик и техлид
@@ -190,23 +190,24 @@ certifications:
 projects:
     title: Projects
     intro: >
+    Мои наиболее значимые проекты за 15 лет. В этот список не вошло приличное число проектов, которые потерпели неудачу, но на которых я получил бесценный опыт.
     assignments:
 
       - title: Маркет ВКонтакте
         link: "https://vk.com/press/marketplace"
-        tagline: "Запустил агрегатор товаров ВКонтакте"
+        tagline: "запустил агрегатор товаров ВКонтакте"
 
       - title: Магазин 2.0
         link: "https://vk.com/@business-magazin-2-0"
-        tagline: "Перезапустил торговлю ВКонтакте и связанные с ним периферийные продукты, среди который жемчужиной стал Магазин 2.0"
+        tagline: "перезапустил торговлю ВКонтакте и связанные с ним периферийные продукты, центральным из которых был Магазин 2.0"
         
       - title: django-split-json-widget
         link: "https://github.com/abbasovalex/django-SplitJSONWidget-form"
-        tagline: "Создал open source виджет, который помогает программистам автоматически строить формы на их Django сайтах"
+        tagline: "создал open source виджет для Django разработчиков, чтобы они автоматически строили формы на своих сайтах"
 
       - title: EVA
         link: "https://vk.com/evasecretlink"
-        tagline: "Аналитика по Wildberries и Ozon. Проект заморожен из-за отсутствия инвестиций."
+        tagline: "создал сервис аналитики по Wildberries и Ozon"
 
       - title: Telegram чат-бот для поиска лекарств
         link: "https://hack.markirovka.ru/"
