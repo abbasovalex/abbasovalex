@@ -2,10 +2,11 @@
 layout: default
 ---
 
+{% assign data = site.data.data %}
 
 {% include career-profile.html %}
 
-{% unless site.data.data.sidebar.education %}
+{% unless data.sidebar.education %}
   {% include education.html %}
 {% endunless %}
 
