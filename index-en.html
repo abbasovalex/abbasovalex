@@ -2,10 +2,11 @@
 layout: default-en
 ---
 
+{% assign data = site.data.data-en %}
 
 {% include career-profile.html %}
 
-{% unless site.data.data.sidebar.education %}
+{% unless data.sidebar.education %}
   {% include education.html %}
 {% endunless %}
 
