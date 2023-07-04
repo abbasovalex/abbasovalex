@@ -171,29 +171,29 @@ certifications:
       title: Сертификаты
       list:
         - name: Введение в Машинное обучение
-          start: 2023
-          end: н.в.
+          start: 
+          end: 
           organization: ОмГТУ
-          credentialurl: 
-          credentialname: 
+          credentialurl: https://stepik.org/course/8057
+          credentialname: Сертификат
           
         - name: Программирование на Golang
-          start: 2021
-          end: 2021
+          start: 
+          end: 
           organization: Частный курс
           credentialurl: stepik.org/cert/1060119
           credentialname: Сертификат
 
         - name: Управление продуктом на основе данных
-          start: 2019
-          end: 2019
+          start: 
+          end: 
           organization: Go Practice
           credentialurl: gopractice.ru/course/pm/
           credentialname: Сертификат
 
         - name: Основы статистики
-          start: 2019
-          end: 2019
+          start: 
+          end: 
           organization: Bioinformatics Institute
           credentialurl: stepik.org/cert/2096054
           credentialname: Сертификат
@@ -247,15 +247,15 @@ publications:
         
       - title: Соцсети унаследуют электронную коммерцию
         link: "https://www.comnews.ru/content/218429/2022-01-25/2022-w04/socseti-unasleduyut-elektronnuyu-kommerciyu"
-        conference: Поучаствовал в виртуальном круглом столе для нтернет-издания «Comnews»
+        conference: Поучаствовал в виртуальном круглом столе для интернет-издания «Comnews»
         
       - title: Почему в 2021 году маркетплейсы обещают «черную пятницу» без фейковых скидок
         link: "https://thebell.io/pochemu-v-2021-godu-marketplejsy-obeshhayut-chernuyu-pyatnitsu-bez-fejkovyh-skidok"
-        conference: Дал комментарии для нтернет-издания The Bell
+        conference: Дал комментарии для интернет-издания The Bell
         
       - title: "Тренды m-commerce от VK Business"
         link: "https://tpmag.ru/articles/texnologii/trendyi-v-m-commerce-ot-vk/"
-        conference: Интервью для нтернет-издания «Точка продаж»
+        conference: Интервью для интернет-издания «Точка продаж»
         
       - title: Подборка чат-ботов для маркетплейсов
         link: "https://botcreators.ru/blog/podborka-chat-botov-dlja-marketplejsov/"
