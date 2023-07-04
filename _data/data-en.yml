@@ -1,0 +1,287 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Alexander Abbasov
+    tagline: Lead Product Manager
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: a@eva10.com
+    telegram: abbasovalex # add your nickname without '@' sign
+    website: vk.com/dad #do not add http://
+    # timezone: Kazakhstan/Oral Timezone
+    github: abbasovalex
+    stack-overflow: 2304719/abbasov-alexander # Number/Username, e.g. 123456/alandoe
+    phone: 
+    citizenship:
+    linkedin: 
+    xing: 
+    gitlab:
+    bitbucket:
+    twitter: 
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: # http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Russian
+          level: Native
+
+        - idiom: English
+          level: B2
+
+    interests:
+      title: Interests
+      info:
+        - item: Computer Science
+          link:
+          
+        - item: Startups
+          link:
+          
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Краткая информация
+    summary: |
+      Вот уже 15 лет занимаюсь профессионально проектами и продуктами в ИТ сфере. Первую половину из них прошел от программиста до CTO.
+      Вторую посвятил предпринимательству и созданию продуктов. За это время удалось поучаствовать в собственных и чужих продуктах.
+      Они были разнообразные — маленькие и большие, локальные и международные, провальные и успешные. Сейчас мой опыт позволяет одинаково хорошо понимать потребности бизнеса и
+      разбираться в технических вопросах, чтобы не противоречить здравому смыслу. Придерживаюсь политики прозрачности в команде и всегда
+      готов обосновать принимаемое мной управленческое решение. Не присваиваю себе чужих заслуг. Одержим сроками продуктовых запусков и рисками,
+      поэтому бываю навязчивым. 
+      
+      Особенно горжусь работой в международном стартапе Appscotch и своим опытом построения миллиардного продукта ВКонтакте.
+      - В Appscotch в соавторстве с небольшой, но сильной командой сделал продукт, которым пользовались такие гиганты как Google,
+      Activision, Uber и др., позже продукт купила Appannie / Data.ai 
+      - Во ВКонтакте небольшой и целеустремленной командой вырастили уникальный продукт с MAU 14 млн пользователей и десятками тысяч продавцов,
+      а также выручкой 1 млрд рублей в год. 
+# education:
+#    title: Education
+#    info:
+#      - degree: MSc in Computer Science
+#        university: University of London
+#        time: 2011 - 2012
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
+#      - degree: BSc in Applied Mathematics
+#        university: Bristol University
+#        time: 2007 - 2011
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
+experiences:
+    title: Опыт работы
+    info:
+      - role: Solopreneur
+        time: 2022 - 2023
+        company: eva10.com, SaaS
+        details: |
+          Создал с нуля новый аналитический сервис в сфере электронной коммерции.
+          Сервис работал в форме чат-бота ВКонтакте и Telegram, которому можно было поручить слежку за конкурентами на Wildberries и Ozon.
+          Раз в неделю чаб-бот присылал персональные отчеты с данными о новинках в ассортименте, число продаж,
+          кол-во остатков на складе и размер выручки за отчетный период. Основной контур работ: исследование рынка, custdev,
+          работа с фокус-группой, поиск рабочей бизнес-модели, разработка и улучшение продукта, привлечение трафика, работа над удержанием.
+          
+          Результаты:
+            - За месяц создан прототип
+            - Привлек 900 продавцов
+            - WAU Retention: 80-90%
+            - Добился первых продаж
+            - Сделана попытка привлечь инвестиции
+            
+      - role: Senior Product Manager
+        time: 2019 - 2022
+        company: vk.com, SaaS
+        details: |
+          Подобрал внутренний полуживой проект электронной коммерции и вдохнул в него жизнь.
+          За 3 года плотной работы кроме управления классическим жизненным циклом продукта, также приходилось много эксперементировать.
+          Основной контур работ: идеология, среднесрочное и краткосрочное планирование, управление несколькими продуктами электронной коммерции,
+          внедрение data driven подхода, работа с функциональными командами (исследования, дизайн, разработка, QA, аналитики,
+          юристы, отделом переводов, продажи, маркетингом и PR).
+
+          Результаты за 3 года:
+            - Помог развитию Social Commerce в России
+            - Запустил Магазин 2.0 и Маркет ВКонтакте
+            - Увеличил число заказов в 30 раз
+            - Кратно увеличил число продавцов
+            - MAU основного продукта: 14 млн
+            - 1 млрд выручки в год
+
+      - role: Entrepreneur
+        time: 2016 - 2019
+        company: iBurattino, SaaS
+        details: |
+          3 года насыщенного предпринимательского опыта. Прошел путь от задумки до воплощения и нахождения product/market fit.
+          Приходилось заниматься абсолютно всем: вести юр.лицо, писать код, администрировать сервера, создавать UI,
+          работать с клиентами, эпизодически привлекать внешних исполнителей (дизайнеры, юристы, системные администраторы, программисты).
+          
+          Результаты за это время:
+            - Сделал SaaS сервис для продавцов в России и стран СНГ
+            - Свыше 10 000 продавцов на платной основе воспользовались сервисом
+            - 2 место по популярности среди дополнений на платформе InSales
+            - Занял 1 место в конкурсе приложений ВКонтакте и получил грант в размере 1 млн. 
+
+      - role: Startup member
+        time: 2015 - 2016
+        company: AppScotch / Almaz Capital, SaaS
+        details: |
+          За 1.5 года в спартанских условиях мы прошли от задумки до продажи лидеру международного рынка мобильной аналитики — Appannie / Data.ai
+          У нас была по настоящему кросс-функциональная команда. В этом продукте отвечал за UI, часть подсистемы для майнинга данных,
+          а также участвовал в строительстве распределенной инфраструктуры проекта и хранении данных. 
+          
+          Результаты за это время:
+            - Сделал UI продукта
+            - Написал в одиночку систему инвойсов и биллинга
+            - Участвовал в продуктовой разработке фич
+            - Успешно собрал лендинг с демо к выставке, что повлияло на продажу
+            - Участвовал в передаче дел после покупки
+
+      - role: Software Engineer
+        time: 2007 - 2015
+        details: |
+          В этот период я прошел путь от разработчика до CTO. 
+          
+          Результаты за это время:
+            - В Jensen Technologies вырос как разработчик и техлид
+            - В ЮМИ построил сильную техническую команду, вместе сделали полсотни заказных проектов
+            - В стартапе сформировал техническую команду, отвечал за продукт, успешно продали 
+
+certifications:
+      title: Сертификаты
+      list:
+        - name: Введение в Машинное обучение
+          start: 
+          end: 
+          organization: ОмГТУ
+          credentialurl: https://stepik.org/course/8057
+          credentialname: Сертификат
+          
+        - name: Программирование на Golang
+          start: 
+          end: 
+          organization: Частный курс
+          credentialurl: stepik.org/cert/1060119
+          credentialname: Сертификат
+
+        - name: Управление продуктом на основе данных
+          start: 
+          end: 
+          organization: Go Practice
+          credentialurl: gopractice.ru/course/pm/
+          credentialname: Сертификат
+
+        - name: Основы статистики
+          start: 
+          end: 
+          organization: Bioinformatics Institute
+          credentialurl: stepik.org/cert/2096054
+          credentialname: Сертификат
+        
+projects:
+    title: Проекты
+    intro: >
+      Мои наиболее значимые проекты за 15 лет. В этот список не вошло приличное число проектов, которые потерпели неудачу, но на которых я получил бесценный опыт.
+    assignments:
+
+      - title: Маркет ВКонтакте
+        link: "https://vk.com/press/marketplace"
+        tagline: "запустил агрегатор товаров ВКонтакте"
+
+      - title: Магазин 2.0
+        link: "https://vk.com/@business-magazin-2-0"
+        tagline: "перезапустил торговлю ВКонтакте и связанные с ним периферийные продукты, центральным из которых был Магазин 2.0"
+        
+      - title: django-split-json-widget
+        link: "https://github.com/abbasovalex/django-SplitJSONWidget-form"
+        tagline: "создал open source виджет для Django разработчиков, чтобы они автоматически строили формы на своих сайтах"
+
+      - title: EVA
+        link: "https://vk.com/evasecretlink"
+        tagline: "создал сервис аналитики по Wildberries и Ozon"
+
+      - title: Telegram чат-бот для поиска лекарств
+        link: "https://hack.markirovka.ru/"
+        tagline: "Прототип чат-бота для поиска лекарств в ближайших аптеках на основе данных от Честного Знака. Заморожен, данные неактуальные."
+        
+      - title: iBurattino
+        link: "https://www.google.com/search?q=iBurattino"
+        tagline: "Проект закрылся, но в сети ещё осталась информация о нём."
+
+      - title: Lukum
+        link: "https://www.sobaka.ru/bars/opening/20329"
+        tagline: "Проект закрылся. Попытка запустить в России информационно-гастрономический сервис для людей, кто хочет получать удовольствие от знакомства с новыми и вкусными блюдами в своем городе."
+
+publications:
+    title: Публичные активности
+    intro: |
+      Ниже небольшая часть упоминаний о продуктах которые я запускал и моих интервью. 
+    papers:
+      - title: Стресс-тест идеи. Dumpling — платформа для независимых курьеров в нише доставки продуктов питания
+        link: "https://vc.ru/food/148710-stress-test-idei-dumpling-platforma-dlya-nezavisimyh-kurerov-v-nishe-dostavki-produktov-pitaniya"
+        conference: Сделал реверс-инжениринг бизнес-модели стартапа
+        
+      - title: «ВКонтакте» и YouTube названы самыми эффективными каналами продаж в России
+        link: "https://www.sostav.ru/publication/vkontakte-i-youtube-nazvany-samymi-effektivnymi-kanalami-prodazh-52652.html"
+        conference: Интернет-издание «Sostav» отметила заслуги торговли ВКонтакте 
+        
+      - title: Соцсети унаследуют электронную коммерцию
+        link: "https://www.comnews.ru/content/218429/2022-01-25/2022-w04/socseti-unasleduyut-elektronnuyu-kommerciyu"
+        conference: Поучаствовал в виртуальном круглом столе для интернет-издания «Comnews»
+        
+      - title: Почему в 2021 году маркетплейсы обещают «черную пятницу» без фейковых скидок
+        link: "https://thebell.io/pochemu-v-2021-godu-marketplejsy-obeshhayut-chernuyu-pyatnitsu-bez-fejkovyh-skidok"
+        conference: Дал комментарии для интернет-издания The Bell
+        
+      - title: "Тренды m-commerce от VK Business"
+        link: "https://tpmag.ru/articles/texnologii/trendyi-v-m-commerce-ot-vk/"
+        conference: Интервью для интернет-издания «Точка продаж»
+        
+      - title: Подборка чат-ботов для маркетплейсов
+        link: "https://botcreators.ru/blog/podborka-chat-botov-dlja-marketplejsov/"
+        conference: Мой аналитический чат-бот засветился в обзорах
+        
+      - title: Заработал ресторанный сервис lukum.org
+        link: "https://www.sobaka.ru/bars/opening/20329"
+        conference: Мой сервис попал в обзор журнала «Собака.ру»
+        
+      - title: Отправляем заявление в Государственную Думу по законопроекту №89417-6
+        link: "http://habrahabr.ru/post/147484/"
+        conference: Собрал более 3 млн просмотров и 60 000 заявлений в госдуму за три дня
+
+skills:
+    title: Ключевые навыки
+    toolset:
+      - name: Управление продуктом
+        level: 90%
+      - name: Продуктовая стратегия
+        level: 80%
+      - name: Координация работ
+        level: 900%
+      - name: Data-driven подход
+        level: 90%
+      - name: Разработка ПО
+        level: 60%
+
+footer: >
+    <a href="/cv-product/index-en.html" target="_blank" rel="nofollow">English Version</a>
