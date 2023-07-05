@@ -273,15 +273,15 @@ skills:
     title: Ключевые навыки
     toolset:
       - name: Управление продуктом
-        level: 90%
+        level: 100%
       - name: Продуктовая стратегия
-        level: 80%
+        level: 100%
       - name: Координация работ
-        level: 900%
+        level: 100%
       - name: Data-driven подход
-        level: 90%
+        level: 100%
       - name: Разработка ПО
-        level: 60%
+        level: 100%
 
 footer: >
     <a href="/cv-product/index-en.html" target="_blank" rel="nofollow">English Version</a>
