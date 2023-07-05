@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: B2
+          level: A2
 
     interests:
       title: Interests
@@ -273,15 +273,15 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Product Management
-        level: 90%
+        level: 100%
       - name: Product Stratagy
-        level: 80%
+        level: 100%
       - name: Product Development
-        level: 90%
+        level: 100%
       - name: Data-Driven Mind
-        level: 90%
+        level: 100%
       - name: Software Development
-        level: 60%
+        level: 100%
 
 footer: >
     <a href="/cv-product/" target="_blank" rel="nofollow">Русская версия</a>
