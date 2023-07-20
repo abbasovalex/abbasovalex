@@ -55,7 +55,7 @@ career-profile:
     summary: |
       I have been professionally involved in IT projects and products for 15 years. The first half of them I grew up from software engineer to CTO. 
       The second half I spent on entrepreneurship and participation in several products. These were the local and international products. Also I made few own products.
-      My experience allows me to combine business vision and goals with technical approaches and knowledge for success executing them.
+      My experience allows me to combine a business vision and goals with technical approaches and knowledge for success executing them.
       As a team leader of product I try to transparency with my teammates. I like planing and data-driven decisions. Besides I appreciate an integrity and punctuality in my work.
 
       I am especially proud of my work at the international startup Appscotch and my experience of building a million-dollar VKontakte product.
@@ -231,39 +231,43 @@ projects:
 publications:
     title: Publications
     intro: |
-      Ниже небольшая часть упоминаний о продуктах которые я запускал и моих интервью. 
+      Below is a small portion of mentions of products I have launched and my interviews. 
     papers:
+      - title: RICE на стероидах или новая модель скоринга «RIDE»
+        link: "https://habr.com/ru/articles/748996/"
+        conference: 
+        
       - title: Стресс-тест идеи. Dumpling — платформа для независимых курьеров в нише доставки продуктов питания
         link: "https://vc.ru/food/148710-stress-test-idei-dumpling-platforma-dlya-nezavisimyh-kurerov-v-nishe-dostavki-produktov-pitaniya"
-        conference: Сделал реверс-инжениринг бизнес-модели стартапа
+        conference: 
         
       - title: «ВКонтакте» и YouTube названы самыми эффективными каналами продаж в России
         link: "https://www.sostav.ru/publication/vkontakte-i-youtube-nazvany-samymi-effektivnymi-kanalami-prodazh-52652.html"
-        conference: Интернет-издание «Sostav» отметила заслуги торговли ВКонтакте 
+        conference:  
         
       - title: Соцсети унаследуют электронную коммерцию
         link: "https://www.comnews.ru/content/218429/2022-01-25/2022-w04/socseti-unasleduyut-elektronnuyu-kommerciyu"
-        conference: Поучаствовал в виртуальном круглом столе для интернет-издания «Comnews»
+        conference: 
         
       - title: Почему в 2021 году маркетплейсы обещают «черную пятницу» без фейковых скидок
         link: "https://thebell.io/pochemu-v-2021-godu-marketplejsy-obeshhayut-chernuyu-pyatnitsu-bez-fejkovyh-skidok"
-        conference: Дал комментарии для интернет-издания The Bell
+        conference: 
         
       - title: "Тренды m-commerce от VK Business"
         link: "https://tpmag.ru/articles/texnologii/trendyi-v-m-commerce-ot-vk/"
-        conference: Интервью для интернет-издания «Точка продаж»
+        conference: 
         
       - title: Подборка чат-ботов для маркетплейсов
         link: "https://botcreators.ru/blog/podborka-chat-botov-dlja-marketplejsov/"
-        conference: Мой аналитический чат-бот засветился в обзорах
+        conference: 
         
       - title: Заработал ресторанный сервис lukum.org
         link: "https://www.sobaka.ru/bars/opening/20329"
-        conference: Мой сервис попал в обзор журнала «Собака.ру»
+        conference: 
         
       - title: Отправляем заявление в Государственную Думу по законопроекту №89417-6
         link: "http://habrahabr.ru/post/147484/"
-        conference: Собрал более 3 млн просмотров и 60 000 заявлений в госдуму за три дня
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
