@@ -237,6 +237,10 @@ publications:
     intro: |
       Ниже небольшая часть упоминаний о продуктах которые я запускал и моих интервью. 
     papers:
+      - title: RICE на стероидах или новая модель скоринга «RIDE»
+        link: "https://habr.com/ru/articles/748996/"
+        conference: Поделился своим фреймворком «RIDE» для продуктового планирования 
+        
       - title: Стресс-тест идеи. Dumpling — платформа для независимых курьеров в нише доставки продуктов питания
         link: "https://vc.ru/food/148710-stress-test-idei-dumpling-platforma-dlya-nezavisimyh-kurerov-v-nishe-dostavki-produktov-pitaniya"
         conference: Сделал реверс-инжениринг бизнес-модели стартапа
