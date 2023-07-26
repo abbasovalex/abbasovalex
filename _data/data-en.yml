@@ -167,33 +167,33 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Введение в Машинное обучение
+        - name: An Introduction to Machine Learning
           start: 
           end: 
           organization: ОмГТУ
           credentialurl: https://stepik.org/course/8057
-          credentialname: Сертификат
+          credentialname: Certificate
           
-        - name: Программирование на Golang
+        - name: Go Programming Language
           start: 
           end: 
-          organization: Частный курс
+          organization: Mooc, Stepik
           credentialurl: stepik.org/cert/1060119
-          credentialname: Сертификат
+          credentialname: Certificate
 
-        - name: Управление продуктом на основе данных
+        - name: Data-driven product management
           start: 
           end: 
           organization: Go Practice
           credentialurl: gopractice.ru/course/pm/
-          credentialname: Сертификат
+          credentialname: Certificate
 
-        - name: Основы статистики
+        - name: Fundamentals of statistics
           start: 
           end: 
           organization: Bioinformatics Institute
           credentialurl: stepik.org/cert/2096054
-          credentialname: Сертификат
+          credentialname: Certificate
         
 projects:
     title: Projects
