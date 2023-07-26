@@ -60,7 +60,7 @@ career-profile:
 
       I am especially proud of my work at the international startup Appscotch and my experience of building a million-dollar VKontakte product.
       - With a strong small team we made Appscotch product that was used by such giants as Google, Activision, Uber, etc. Later the company was acquired by Appannie / Data.ai.   
-      - Into vk.com I built with small and friendly team a product with an MAU of 14 million users, tens of thousands of sellers and year revenue of 12 million dollars.   
+      - Into vk.com a small team and me jointly build a product with an MAU of 14 million users, tens of thousands of sellers and year revenue of 12 million dollars.   
 # education:
 #    title: Education
 #    info:
@@ -99,7 +99,7 @@ experiences:
           кол-во остатков на складе и размер выручки за отчетный период. Основной контур работ: исследование рынка, custdev,
           работа с фокус-группой, поиск рабочей бизнес-модели, разработка и улучшение продукта, привлечение трафика, работа над удержанием.
           
-          Результаты:
+          Accomplishments:
             - За месяц создан прототип
             - Привлек 900 продавцов
             - WAU Retention: 80-90%
@@ -116,7 +116,7 @@ experiences:
           внедрение data driven подхода, работа с функциональными командами (исследования, дизайн, разработка, QA, аналитики,
           юристы, отделом переводов, продажи, маркетингом и PR).
 
-          Результаты за 3 года:
+          Accomplishments:
             - Помог развитию Social Commerce в России
             - Запустил Магазин 2.0 и Маркет ВКонтакте
             - Увеличил число заказов в 30 раз
@@ -132,7 +132,7 @@ experiences:
           Приходилось заниматься абсолютно всем: вести юр.лицо, писать код, администрировать сервера, создавать UI,
           работать с клиентами, эпизодически привлекать внешних исполнителей (дизайнеры, юристы, системные администраторы, программисты).
           
-          Результаты за это время:
+          Accomplishments:
             - Сделал SaaS сервис для продавцов в России и стран СНГ
             - Свыше 10 000 продавцов на платной основе воспользовались сервисом
             - 2 место по популярности среди дополнений на платформе InSales
@@ -156,12 +156,13 @@ experiences:
       - role: Software Engineer
         time: 2007 - 2015
         details: |
-          В этот период я прошел путь от разработчика до CTO. 
+          During this period I grew up from intern to CTO and I got strong technical knowledges about how to make web services.
           
-          Результаты за это время:
-            - В Jensen Technologies вырос как разработчик и техлид
-            - В ЮМИ построил сильную техническую команду, вместе сделали полсотни заказных проектов
-            - В стартапе сформировал техническую команду, отвечал за продукт, успешно продали 
+          Accomplishments:
+            - At Jensen Technologies I was a developer
+            - At UMI I was a tech lead. I built a strong technical team, then we joint did more then fifty custom projects.
+            - I was also involved in a startup from seed to exit. My role was CTO and my responsibilities included driving a product and a team. 
+            We improved the product for 3 years, and then the product was bought for $5 million. 
 
 certifications:
       title: Certifications
