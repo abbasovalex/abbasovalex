@@ -142,21 +142,22 @@ experiences:
         time: 2015 - 2016
         company: AppScotch / Almaz Capital, SaaS
         details: |
-          За 1.5 года в спартанских условиях мы прошли от задумки до продажи лидеру международного рынка мобильной аналитики — Appannie / Data.ai
-          У нас была по настоящему кросс-функциональная команда. В этом продукте отвечал за UI, часть подсистемы для майнинга данных,
-          а также участвовал в строительстве распределенной инфраструктуры проекта и хранении данных. 
+          We spent 1.5 years to make an analytical product for the mobile application market.
+          Then it was bought by Appannie / Data.ai Because we were a startup our team was cross-functional.
+          I was responsible for the UI, part of the data mining subsystem, the billing subsystem,
+          and I was also involved in building the project's distributed infrastructure and data storage. 
           
-          Результаты за это время:
-            - Сделал UI продукта
-            - Написал в одиночку систему инвойсов и биллинга
-            - Участвовал в продуктовой разработке фич
-            - Успешно собрал лендинг с демо к выставке, что повлияло на продажу
-            - Участвовал в передаче дел после покупки
+          Accomplishments:
+            - Made a UI of the product
+            - Made an invoicing and billing system myself
+            - Participated in product feature development
+            - Made a landing page for demonstration abilities of the product
+            - Participated in the transfer of the product to Appannie after the sell
 
       - role: Software Engineer
         time: 2007 - 2015
         details: |
-          During this period I grew up from intern to CTO and I got strong technical knowledges about how to make web services.
+          During this period I grew up from an intern to CTO and I got strong technical knowledges about how to make web services.
           
           Accomplishments:
             - At Jensen Technologies I was a developer
