@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: a@eva10.com
     telegram: abbasovalex # add your nickname without '@' sign
-    website: vk.com/dad #do not add http://
-    # timezone: Kazakhstan/Oral Timezone
+    vk: vk.com/dad #do not add http://
+    website: 
     github: abbasovalex
     stack-overflow: 2304719/abbasov-alexander # Number/Username, e.g. 123456/alandoe
     phone: 
@@ -28,6 +28,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
+    timezone: Saint-Petersburg, ready for relocation
 
     languages:
       title: Languages
