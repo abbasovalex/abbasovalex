@@ -25,6 +25,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.vk %}
+    <li class="timezone"><i class="fab fa-vk"></i>
+      <a href="">{{ sidebar.vk }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
@@ -92,7 +98,7 @@
     {% endif %}
 
     {% if sidebar.timezone %}
-    <li class="timezone"><i class="fas fa-clock"></i>
+    <li class="timezone"><i class="fas fa-globe-americas"></i>
       <a href="">{{ sidebar.timezone }}</a>
     </li>
     {% endif %}
