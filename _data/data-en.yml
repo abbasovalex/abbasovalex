@@ -200,36 +200,36 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Мои наиболее значимые проекты за 15 лет. В этот список не вошло приличное число проектов, которые потерпели неудачу, но на которых я получил бесценный опыт.
+      Below are major projects during my last 15 years. Another projects either died or they are smaller than these.
     assignments:
 
-      - title: Маркет ВКонтакте
+      - title: Marketplace
         link: "https://vk.com/press/marketplace"
-        tagline: "запустил агрегатор товаров ВКонтакте"
+        tagline: "I have launched a marketplace that was used by several hundred thousand sellers and millions of buyers"
 
       - title: Магазин 2.0
         link: "https://vk.com/@business-magazin-2-0"
-        tagline: "перезапустил торговлю ВКонтакте и связанные с ним периферийные продукты, центральным из которых был Магазин 2.0"
+        tagline: "I have improved a major e-commerce product on vk.com MAU: 14 millions."
         
       - title: django-split-json-widget
         link: "https://github.com/abbasovalex/django-SplitJSONWidget-form"
-        tagline: "создал open source виджет для Django разработчиков, чтобы они автоматически строили формы на своих сайтах"
+        tagline: "This is my first experience with my own open source. I made a widget for software developers used to  Django framework."
 
       - title: EVA
         link: "https://vk.com/evasecretlink"
-        tagline: "создал сервис аналитики по Wildberries и Ozon"
+        tagline: "I have made own marketing competitive service for wildeberries.ru and ozon.ru sellers."
 
       - title: Telegram чат-бот для поиска лекарств
         link: "https://hack.markirovka.ru/"
-        tagline: "Прототип чат-бота для поиска лекарств в ближайших аптеках на основе данных от Честного Знака. Заморожен, данные неактуальные."
+        tagline: "Prototype of a chatbot to search for medicines in the nearest pharmacies based on market data."
         
       - title: iBurattino
         link: "https://www.google.com/search?q=iBurattino"
-        tagline: "Проект закрылся, но в сети ещё осталась информация о нём."
+        tagline: "Web service for sellers. The service allows them to export price lists for goods from the website to a social network and then update this data on a daily basis. Project closed after 3 years."
 
       - title: Lukum
         link: "https://www.sobaka.ru/bars/opening/20329"
-        tagline: "Проект закрылся. Попытка запустить в России информационно-гастрономический сервис для людей, кто хочет получать удовольствие от знакомства с новыми и вкусными блюдами в своем городе."
+        tagline: "My attempt to launch an information and gastronomy web and mobile service in Russia for people who want to enjoy discovering new and tasty dishes in their own city. The project didn't make it through the valley of death."
 
 publications:
     title: Publications
