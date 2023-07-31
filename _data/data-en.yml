@@ -203,11 +203,11 @@ projects:
       Below are major projects during my last 15 years. Another projects either died or they are smaller than these.
     assignments:
 
-      - title: Marketplace
+      - title: VK Marketplace
         link: "https://vk.com/press/marketplace"
         tagline: "I have launched a marketplace that was used by several hundred thousand sellers and millions of buyers"
 
-      - title: Магазин 2.0
+      - title: VK Shop 2.0
         link: "https://vk.com/@business-magazin-2-0"
         tagline: "I have improved a major e-commerce product on vk.com MAU: 14 millions."
         
@@ -219,7 +219,7 @@ projects:
         link: "https://vk.com/evasecretlink"
         tagline: "I have made own marketing competitive service for wildeberries.ru and ozon.ru sellers."
 
-      - title: Telegram чат-бот для поиска лекарств
+      - title: Telegram Chatbot
         link: "https://hack.markirovka.ru/"
         tagline: "Prototype of a chatbot to search for medicines in the nearest pharmacies based on market data."
         
@@ -283,9 +283,9 @@ skills:
         level: 100%
       - name: Data-Driven Mind
         level: 100%
-      - name: Software Development
-        level: 100%
       - name: Startups
+        level: 100%
+      - name: Software Development (Python, Golang, Clickhouse, Postgres)
         level: 100%
 
 footer: >
