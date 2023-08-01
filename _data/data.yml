@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alexander Abbasov
-    tagline: Lead Product Manager
+    name: Александр Аббасов
+    tagline: Директор продукта
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,31 +28,31 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
-    timezone: Saint-Petersburg, ready for relocation
+    timezone: Санкт-Петербург
 
     languages:
-      title: Languages
+      title: Языки
       info:
-        - idiom: Russian
-          level: Native
+        - idiom: Русский
+          level: Родной
 
-        - idiom: English
-          level: A2
+        - idiom: Английски
+          level: A2-B1
 
     interests:
-      title: Interests
+      title: Интересы
       info:
         - item: Computer Science
           link:
           
-        - item: Startups
+        - item: Стартапы
           link:
           
-        - item: Cooking
+        - item: Кулинария
           link:
 
 career-profile:
-    title: Краткая информация
+    title: Обо мне
     summary: |
       Вот уже 15 лет занимаюсь профессионально проектами и продуктами в ИТ сфере. Первую половину из них прошел от программиста до CTO.
       Вторую посвятил предпринимательству и созданию продуктов. За это время удалось поучаствовать в собственных и чужих продуктах.
@@ -94,7 +94,7 @@ career-profile:
 experiences:
     title: Опыт работы
     info:
-      - role: Solopreneur
+      - role: Стартапер-энтузиаст
         time: 2022 - 2023
         company: eva10.com, SaaS
         details: |
@@ -129,7 +129,7 @@ experiences:
             - MAU основного продукта: 14 млн
             - 1 млрд выручки в год
 
-      - role: Entrepreneur
+      - role: Предприниматель
         time: 2016 - 2019
         company: iBurattino, SaaS
         details: |
@@ -158,7 +158,7 @@ experiences:
             - Успешно собрал лендинг с демо к выставке, что повлияло на продажу
             - Участвовал в передаче дел после покупки
 
-      - role: Software Engineer
+      - role: Разработчик ПО
         time: 2007 - 2015
         details: |
           В этот период я прошел путь от разработчика до CTO. 
