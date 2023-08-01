@@ -285,7 +285,7 @@ skills:
         level: 100%
       - name: Data-driven подход
         level: 100%
-      - name: Разработка ПО
+      - name: Разработка ПО (Python, Golang, Clickhouse, Postgresql, Docker)
         level: 100%
 
 footer: >
