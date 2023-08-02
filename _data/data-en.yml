@@ -94,11 +94,12 @@ experiences:
         time: 2022 - 2023
         company: eva10.com, SaaS
         details: |
-          Создал с нуля новый аналитический сервис в сфере электронной коммерции.
-          Сервис работал в форме чат-бота ВКонтакте и Telegram, которому можно было поручить слежку за конкурентами на Wildberries и Ozon.
-          Раз в неделю чаб-бот присылал персональные отчеты с данными о новинках в ассортименте, число продаж,
-          кол-во остатков на складе и размер выручки за отчетный период. Основной контур работ: исследование рынка, custdev,
-          работа с фокус-группой, поиск рабочей бизнес-модели, разработка и улучшение продукта, привлечение трафика, работа над удержанием.
+          I've created a new e-commerce analytics service for sellers working on marketplaces wb.ru and ozon.ru
+          It was SaaS with a telegram chatbot. Any seller could send to the chatbot links on their competitors.
+          Then the service everyday collect data from this cites and sent reports about competitors once a week.
+          The reports included an information about what new products are showed up, warehouse stock and revenue.
+          Service worked over the modern web and mobile browsers. In this SaaS, I created the service idea, did market research, custdev,
+          managed the servers and wrote the code, developed the business model, and worked on acquiring new users and retaining them.  
           
           Accomplishments:
             - Released SaaS less then 3 month
