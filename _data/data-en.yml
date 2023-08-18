@@ -282,6 +282,8 @@ skills:
         level: 100%
       - name: Data-Driven Mind
         level: 100%
+      - name: Statistic
+        level: 100%
       - name: Startups
         level: 100%
       - name: Software Development (Python, Golang, Clickhouse, Postgresql, Docker)
