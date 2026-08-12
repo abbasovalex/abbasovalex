@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/header.svg" width="100%" alt="header"/>
+  <img src="assets/images/header.svg" width="100%" alt=""/>
 </p>
 
 Hi! My name is Alexander Abbasov. I am a product manager, software developer and startup enthusiast 🦄
